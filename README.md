@@ -1,2 +1,2 @@
 # chenjs.github.io
-Tom Chen’s github blog
+Tom Chen的博客 - 看不懂世界的眼睛
